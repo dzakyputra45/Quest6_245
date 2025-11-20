@@ -70,7 +70,7 @@ fun TampilSiswa(
                         Text(
                             text = item.second,
                             fontWeight = FontWeight.Bold,
-                            fontFamily = FontFamily.Cursive,
+                            fontFamily = FontFamily.Monospace,
                             fontSize = 22.sp
                         )
                         HorizontalDivider(thickness = 1.dp, color = Color.Red)
