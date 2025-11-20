@@ -96,7 +96,7 @@ fun FormSiswa(
                                 selected = textGender == item,
                                 onClick = { textGender = item }
                             )
-                            .padding(8.dp)
+                            .padding(10.dp)
                     ) {
                         RadioButton(
                             selected = textGender == item,
