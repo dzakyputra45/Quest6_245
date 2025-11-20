@@ -82,7 +82,7 @@ fun TampilSiswa(
             Button(
                 modifier = Modifier
                     .fillMaxWidth()
-                    .padding(top = 16.dp),
+                    .padding(top = 20.dp),
                 onClick = onBackBtnClick
             ) {
                 Text(text = stringResource(id = R.string.back))
