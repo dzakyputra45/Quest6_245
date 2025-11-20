@@ -69,7 +69,7 @@ fun TampilSiswa(
                         )
                         Text(
                             text = item.second,
-                            fontWeight = FontWeight.Bold,
+                            fontWeight = FontWeight.ExtraBold,
                             fontFamily = FontFamily.Monospace,
                             fontSize = 22.sp
                         )
