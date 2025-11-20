@@ -77,7 +77,7 @@ fun FormSiswa(
                     .padding(20.dp)
                     .width(250.dp),
                 thickness = 1.dp,
-                color = Color.Red
+                color = Color.DarkGray
             )
 
             OutlinedTextField(
